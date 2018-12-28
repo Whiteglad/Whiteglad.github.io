@@ -1,13 +1,13 @@
 # Setup
-title:        Whiteglad 
-tagline:      Every butterfly is evolved from a flower
+title:        "Whiteglad" 
+tagline:      "Every butterfly is evolved from a flower"
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Vincent Liu
+  name:       "Vincent Liu"
   url:        http://yourhomepage.com 
 
 # Gems

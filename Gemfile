@@ -1,7 +1,7 @@
-source 'https://rubygems.org'
-gemspec
+source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'kramdown'
-gem 'pygments.rb'
+gem "jekyll", "~> 3.2.1"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem 'jekyll-mentions'
+gem 'jekyll-feed'

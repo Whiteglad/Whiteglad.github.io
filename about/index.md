@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Introduction of this Blog
+tags: [CS, Movie, Music, Blabla]
+date: 2019-01-01
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://whiteglad.github.io/Moon"><b>This Blog</b></a> is a place to share inspiration of my life.Glad to meet you</center>
 
 ## Features
 * Minimal, you can focus on your content

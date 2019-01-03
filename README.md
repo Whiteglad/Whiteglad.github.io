@@ -1,3 +1,3 @@
-# Moon Jekyll Theme 
+# Whiteglad‘s Blog 
 
   

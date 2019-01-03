@@ -6,7 +6,8 @@ date: 2019-01-01
 comments: false
 ---
     
-<center><a href="http://whiteglad.github.io/Moon"><b>This Blog</b></a> is a place to share inspiration of my life.Glad to meet you</center>
+<center><a href="http://whiteglad.github.io/Moon"><b>This Blog</b></a> is a place to share inspiration of my life.</center>
+<center> 很高兴认识你 </center>
 
 ## Features
 * Minimal, you can focus on your content
